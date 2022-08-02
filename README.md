@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poriyaag
-- 👀 I’m interested in mobile game/app development
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React/UI Design 
 - 📫 How to reach me : poriyaamiirii@gmail.com
 
 <!---
