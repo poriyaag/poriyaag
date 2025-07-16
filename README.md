@@ -1,7 +1,4 @@
 <h1 align="left">Hey  my name is Poriya 👋</h1>
-
-###
-
 <h2 align="left">Front-End Developer</h2>
 
 ###
