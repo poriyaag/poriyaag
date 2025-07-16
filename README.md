@@ -1,8 +1,8 @@
-<div>
-  <h1 align="left">Hey  my name is Poriya 👋</h1>
-<h2 align="left">Front-End Developer</h2>
+Hi 👋 My name is Poriya
+=======================
 
-</div>
+Front-End Developer
+-------------------
 ###
 
 <p align="left">- 🔭 I build interactive websites and web apps<br>- 🎯 I focus on performance, accessibility, and best practices<br>- 🌱 Always learning new technologies and improving my craft</p>
