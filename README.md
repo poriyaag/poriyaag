@@ -1,6 +1,4 @@
 Hi 👋 My name is Poriya
-=======================
-
 Front-End Developer
 -------------------
 ###
