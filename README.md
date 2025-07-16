@@ -1,5 +1,5 @@
-Hi 👋 My name is Poriya <br>
-Front-End Developer
+<h1>Hi 👋 My name is Poriya</h1> <br>
+<h2>Front-End Developer</h2>
 -------------------
 ###
 
